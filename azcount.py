@@ -15,7 +15,7 @@
 # - Use Cloud Shell (Bash)
 # - Upload the script
 # - Run the script:
-#       python3 resource-count-azure.py
+#       python3 azcount.py
 ##########################################
 
 import subprocess
